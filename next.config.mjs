@@ -9,5 +9,4 @@ const nextConfig = {
     }
   }
   
-  //this was changed 
   export default nextConfig
